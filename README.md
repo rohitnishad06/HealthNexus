@@ -33,8 +33,8 @@ It allows admins, doctors, and patients to manage healthcare data, view news & f
 ## ⚙️ Installation and Setup
 
 ### 1️⃣ Clone the repository
-git clone [https://github.com/yourusername/mern-healthcare-app.git](https://github.com/rohitnishad06/HealthNexus.git)
-cd mern-healthcare-app
+git clone [https://github.com/rohitnishad06/HealthNexus.git](https://github.com/rohitnishad06/HealthNexus.git)
+cd HealthNexus
 
 2️⃣ Backend setup
 cd backend
