@@ -6,7 +6,7 @@ const sendmail = async(to,sub,msg) =>{
       service:"gmail",
       auth:{
         user:"rohitnishad123467@gmail.com",
-        pass:"uskumlvpoybkgdwn"
+        pass:process.env.env.Email_pass
       }
     });
     await transport.sendMail({
